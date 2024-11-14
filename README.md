@@ -14,6 +14,9 @@ Todas as classes devem ter métodos para salvar, deletar e atualizar registros e
 
 ### 📋 Código
 
+![ABSTRATA_PRODUTO](https://github.com/user-attachments/assets/2f5d7447-24f0-4a56-9148-479d457554b5)
+![ABSTRATA_PRODUTO2](https://github.com/user-attachments/assets/6f1357f2-11b7-40c1-af45-dcbccd838802)
+![ABSTRATA_PRODUTO3](https://github.com/user-attachments/assets/397b61a3-125e-4802-a4f8-0eb4e45c2d61)
 
 
 
